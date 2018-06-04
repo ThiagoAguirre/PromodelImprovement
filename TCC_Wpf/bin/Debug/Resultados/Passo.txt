@@ -1,0 +1,147 @@
+Carregado modeloZ:\TCC\Modelo\Exemplo 1B.mod
+Carregado modeloc:\users\rsworkstation\documents\promodel\output\Exemplo 1B.rdb
+Locais 6 Entidades 4
+----------------------------
+Modelo Pai
+
+Simulando
+Abrindo c:\users\rsworkstation\documents\promodel\output\Exemplo 1B.rdb
+Aberto c:\users\rsworkstation\documents\promodel\output\Exemplo 1B.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 1
+Salvando filho 1 Z:\TCC\Modelo\Exemplo 1Bfilho1.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho1.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho1.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 2
+Salvando filho 2 Z:\TCC\Modelo\Exemplo 1Bfilho2.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho2.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho2.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 3
+Salvando filho 3 Z:\TCC\Modelo\Exemplo 1Bfilho3.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho3.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho3.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 4
+Salvando filho 4 Z:\TCC\Modelo\Exemplo 1Bfilho4.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho4.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho4.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 5
+Salvando filho 5 Z:\TCC\Modelo\Exemplo 1Bfilho5.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho5.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho5.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar
+----------------------------
+Criando filho 6
+Salvando filho 6 Z:\TCC\Modelo\Exemplo 1Bfilho6.mod
+
+Simulando
+Abrindo C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho6.rdb
+Aberto C:\Users\RSWorkstation\Documents\ProModel\Output\Exemplo 1Bfilho6.rdb
+Criada tabelas
+Lendo dados, locais 1
+Lendo dados, locais 2
+Lendo dados, locais 3
+Lendo dados, locais 4
+Lendo dados, locais 5
+Lendo dados, locais 6
+Lendo dados, locais 7
+Lendo dados, locais 8
+Lendo dados, entidades 1
+Lendo dados, entidades 2
+Lendo dados, entidades 3
+Lendo dados, entidades 4
+Reportar

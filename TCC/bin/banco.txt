@@ -1,0 +1,404 @@
+Table1
+Field1
+Record1
+Empilhadeira -- 0,484433333333333
+Table1
+Field1
+Record2
+Engrenagem -- 0,484433333333333
+Table1
+Field1
+Record3
+Fábrica -- 0,484433333333333
+Table1
+Field2
+Record1
+Empilhadeira -- 1
+Table1
+Field2
+Record2
+Engrenagem -- 1
+Table1
+Field2
+Record3
+Fábrica -- 1
+Table1
+Field3
+Record1
+Empilhadeira -- 8
+Table1
+Field3
+Record2
+Engrenagem -- 7
+Table1
+Field3
+Record3
+Fábrica -- 8
+Table1
+Field4
+Record1
+Empilhadeira -- 2,778875
+Table1
+Field4
+Record2
+Engrenagem -- 4,01414285714286
+Table1
+Field4
+Record3
+Fábrica -- 3,629125
+Table1
+Field5
+Record1
+Empilhadeira -- 0,764845523979908
+Table1
+Field5
+Record2
+Engrenagem -- 0,966730888323127
+Table1
+Field5
+Record3
+Fábrica -- 0,998864652859011
+Table1
+Field6
+Record1
+Empilhadeira -- 1
+Table1
+Field6
+Record2
+Engrenagem -- 1
+Table1
+Field6
+Record3
+Fábrica -- 1
+Table1
+Field7
+Record1
+Empilhadeira -- 1
+Table1
+Field7
+Record2
+Engrenagem -- 1
+Table1
+Field7
+Record3
+Fábrica -- 1
+Table1
+Field8
+Record1
+Empilhadeira -- 76,4845523979908
+Table1
+Field8
+Record2
+Engrenagem -- 96,6730888323127
+Table1
+Field8
+Record3
+Fábrica -- 99,8864652859011
+Table2
+Field1
+Record1
+Empilhadeira -- 0,484433333333333
+Table2
+Field1
+Record2
+Engrenagem -- 0,484433333333333
+Table2
+Field1
+Record3
+Fábrica -- 0,484433333333333
+Table2
+Field2
+Record1
+Empilhadeira -- 0
+Table2
+Field2
+Record2
+Engrenagem -- 0,79
+Table2
+Field2
+Record3
+Fábrica -- 99,89
+Table2
+Field3
+Record1
+Empilhadeira -- 0
+Table2
+Field3
+Record2
+Engrenagem -- 0
+Table2
+Field3
+Record3
+Fábrica -- 0
+Table2
+Field4
+Record1
+Empilhadeira -- 23,52
+Table2
+Field4
+Record2
+Engrenagem -- 3,33
+Table2
+Field4
+Record3
+Fábrica -- 0,11
+Table2
+Field5
+Record1
+Empilhadeira -- 0
+Table2
+Field5
+Record2
+Engrenagem -- 0
+Table2
+Field5
+Record3
+Fábrica -- 0
+Table2
+Field6
+Record1
+Empilhadeira -- 76,48
+Table2
+Field6
+Record2
+Engrenagem -- 95,88
+Table2
+Field6
+Record3
+Fábrica -- 0
+Table2
+Field7
+Record1
+Empilhadeira -- 0
+Table2
+Field7
+Record2
+Engrenagem -- 0
+Table2
+Field7
+Record3
+Fábrica -- 0
+Table3
+Field1
+Record1
+Matéria_prima - Empilhadeira -- 0
+Table3
+Field1
+Record2
+Caminhonete - Fábrica -- 0
+Table3
+Field2
+Record1
+Matéria_prima - Empilhadeira -- 22
+Table3
+Field2
+Record2
+Caminhonete - Fábrica -- 58
+Table4
+Field1
+Record1
+Matéria_prima -- 5
+Table4
+Field1
+Record2
+Caminhonete -- 2
+Table4
+Field2
+Record1
+Matéria_prima -- 3
+Table4
+Field2
+Record2
+Caminhonete -- 0
+Table4
+Field3
+Record1
+Matéria_prima -- 11,033
+Table4
+Field3
+Record2
+Caminhonete -- 0
+Table4
+Field4
+Record1
+Matéria_prima -- 0
+Table4
+Field4
+Record2
+Caminhonete -- 0
+Table4
+Field5
+Record1
+Matéria_prima -- 0
+Table4
+Field5
+Record2
+Caminhonete -- 0
+Table4
+Field6
+Record1
+Matéria_prima -- 5,033
+Table4
+Field6
+Record2
+Caminhonete -- 0
+Table4
+Field7
+Record1
+Matéria_prima -- 6
+Table4
+Field7
+Record2
+Caminhonete -- 0
+Table5
+Field1
+Record1
+Matéria_prima -- 0
+Table5
+Field2
+Record1
+Matéria_prima -- 0
+Table5
+Field3
+Record1
+Matéria_prima -- 45,6176923774132
+Table5
+Field4
+Record1
+Matéria_prima -- 54,3823076225868
+Table6
+Field1
+Record1
+Empilhadeira -- 0
+Table6
+Field1
+Record2
+Engrenagem -- 0
+Table6
+Field1
+Record3
+Fábrica -- 0
+Table6
+Field1
+Record4
+SOMA -- 0
+Table6
+Field2
+Record1
+Empilhadeira -- 0
+Table6
+Field2
+Record2
+Engrenagem -- 0
+Table6
+Field2
+Record3
+Fábrica -- 0
+Table6
+Field2
+Record4
+SOMA -- 0
+Table6
+Field3
+Record1
+Empilhadeira -- 0
+Table6
+Field3
+Record2
+Engrenagem -- 0
+Table6
+Field3
+Record3
+Fábrica -- 0
+Table6
+Field3
+Record4
+SOMA -- 0
+Table6
+Field4
+Record1
+Empilhadeira -- 0
+Table6
+Field4
+Record2
+Engrenagem -- 0
+Table6
+Field4
+Record3
+Fábrica -- 0
+Table6
+Field4
+Record4
+SOMA -- 0
+Table6
+Field5
+Record1
+Empilhadeira -- 0
+Table6
+Field5
+Record2
+Engrenagem -- 0
+Table6
+Field5
+Record3
+Fábrica -- 0
+Table6
+Field5
+Record4
+SOMA -- 0
+Table6
+Field6
+Record1
+Empilhadeira -- 0
+Table6
+Field6
+Record2
+Engrenagem -- 0
+Table6
+Field6
+Record3
+Fábrica -- 0
+Table6
+Field6
+Record4
+SOMA -- 0
+Table7
+Field1
+Record1
+Matéria_prima -- 5
+Table7
+Field1
+Record2
+Caminhonete -- 2
+Table7
+Field2
+Record1
+Matéria_prima -- 0
+Table7
+Field2
+Record2
+Caminhonete -- 0
+Table7
+Field2
+Record3
+SOMA -- 0
+Table7
+Field3
+Record1
+Matéria_prima -- 0
+Table7
+Field3
+Record2
+Caminhonete -- 0
+Table8
+Field1
+Record1
+Simulation Time Basis=TIME_ONLY -- 0
+Table8
+Field1
+Record2
+Warmup Time -- 0
+Table8
+Field1
+Record3
+Run Length - 10 -- 0

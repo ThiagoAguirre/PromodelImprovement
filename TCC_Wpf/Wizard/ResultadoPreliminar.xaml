@@ -1,0 +1,50 @@
+﻿<Page x:Class="TCC_Wpf.Wizard.ResultadoPreliminar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TCC_Wpf.Wizard"
+      mc:Ignorable="d" 
+      xmlns:controls="clr-namespace:KeyhanControls.Chart;assembly=KeyhanControls"
+      xmlns:my="clr-namespace:TCC_Wpf"
+      d:DesignHeight="300" d:DesignWidth="431"
+      Title="ResultadoPreliminar">
+    <Grid>
+        <controls:BarChart x:Name="BarChart1" ValueVisibility="Visible" LegendsVisibility="Hidden" CanChangeLegendVisibility="False" LegendPropertyName="WorkType" VerticalPropertyName="Value" HorizontalPropertyName="Year" FontFamily="Tahoma" ItemsSource="{Binding Data, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type my:MainWindow}}}" Margin="0,29,0,55">
+            <controls:BarChart.Legends>
+                <controls:Legend DisplayName="Saídas Explícitas" LegendType="{x:Static my:WorkTypes.Saídas}">
+                    <controls:Legend.Color>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                            <GradientStop Color="#FF5C8EFF" Offset="0" />
+                            <GradientStop Color="#FFC2C2FC" Offset="1" />
+                        </LinearGradientBrush>
+                    </controls:Legend.Color>
+                </controls:Legend>
+                <controls:Legend DisplayName="Total de Saídas" LegendType="{x:Static my:WorkTypes.Total}">
+                    <controls:Legend.Color>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                            <GradientStop Color="#FF63B700" Offset="0" />
+                            <GradientStop Color="#FFBDEB94" Offset="1" />
+                        </LinearGradientBrush>
+                    </controls:Legend.Color>
+                </controls:Legend>
+                <controls:Legend DisplayName="Tempo médio no sistema" LegendType="{x:Static my:WorkTypes.Tempo}">
+                    <controls:Legend.Color>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                            <GradientStop Color="#FFA9B700" Offset="0" />
+                            <GradientStop Color="#FFEBEB94" Offset="1" />
+                        </LinearGradientBrush>
+                    </controls:Legend.Color>
+                </controls:Legend>
+            </controls:BarChart.Legends>
+        </controls:BarChart>
+        <Label x:Name="lblTitulo" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18.667" Margin="0,-6,0,0"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="19" VerticalAlignment="Bottom" Width="19" Margin="10,0,0,8" Background="#FF4556FF"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="19" VerticalAlignment="Bottom" Width="19" Margin="140,0,0,8" Background="#FF26DA1D"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="19" VerticalAlignment="Bottom" Width="19" Margin="258,0,0,8" Background="#FFF0F92B"/>
+        <Label Content="Saídas explícitas" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="29,0,0,5"/>
+        <Label Content="Total de saídas" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="159,0,0,5"/>
+        <Label Content="Tempo médio no sistema" HorizontalAlignment="Left" Margin="282,0,0,5" Height="26" VerticalAlignment="Bottom"/>
+        <Label Content="Legenda" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5,0,0,29"/>
+    </Grid>
+</Page>

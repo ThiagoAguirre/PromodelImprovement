@@ -1,0 +1,67 @@
+﻿<Controls:MetroWindow  x:Class="TCC_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:TCC_Wpf"
+        mc:Ignorable="d" Topmost="True"
+        Title="Otimizador" Height="621" Width="799.5" GlowBrush="Black" ShowIconOnTitleBar="True">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" Margin="10,65,235,217" CornerRadius="2">
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF7A7A7A" Offset="1"/>
+                    <GradientStop Color="#FF6B6B6B" Offset="0.412"/>
+                    <GradientStop Color="#FF4B4B4B" Offset="0.827"/>
+                    <GradientStop Color="#FF4E4E4E"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Frame x:Name="grdFrame" Content="Frame" NavigationUIVisibility="Hidden" Margin="5"/>
+        </Border>
+        <Button x:Name="btnProximo" Content="Proximo &gt;" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="81" Margin="0,0,10,10" Click="btnProximo_Click"/>
+        <Button x:Name="btnAnterior" Content="&lt; Anterior" VerticalAlignment="Bottom" Margin="0,0,94,10" Click="btnAnterior_Click" HorizontalAlignment="Right" Width="81"/>
+
+        <Border BorderThickness="1" Margin="0,65,10,217" CornerRadius="2" HorizontalAlignment="Right" Width="220">
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF7A7A7A" Offset="1"/>
+                    <GradientStop Color="#FF6B6B6B" Offset="0.412"/>
+                    <GradientStop Color="#FF4B4B4B" Offset="0.827"/>
+                    <GradientStop Color="#FF4E4E4E"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Grid Margin="5" Background="White">
+                <StackPanel x:Name="grdPassos" Margin="10,29,0,0"/>
+                <Label Content="Etapas" VerticalAlignment="Top" FontSize="18.667" Margin="0,-6,0,0"/>
+            </Grid>
+        </Border>
+        <Label Content="Otimizador v1.0" HorizontalAlignment="Left" Height="75" Margin="7,1,0,0" VerticalAlignment="Top" Width="497" FontSize="48" FontFamily="/ModernUI;component/Fontes/#Segoe WP Light" Background="{x:Null}">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF424242" Offset="0"/>
+                    <GradientStop Color="#FF616161" Offset="0.993"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Border BorderThickness="1" Margin="10,0,10,40" CornerRadius="2" Height="172" VerticalAlignment="Bottom">
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF7A7A7A" Offset="1"/>
+                    <GradientStop Color="#FF6B6B6B" Offset="0.412"/>
+                    <GradientStop Color="#FF4B4B4B" Offset="0.827"/>
+                    <GradientStop Color="#FF4E4E4E"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Grid Margin="5" Background="White">
+                <StackPanel x:Name="grdLog" Margin="10,29,0,0"/>
+                <Label Content="Log" VerticalAlignment="Top" FontSize="18.667" Margin="0,-6,0,0"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Controls:MetroWindow>

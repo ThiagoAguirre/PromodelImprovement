@@ -1,0 +1,17 @@
+﻿<Page x:Class="TCC_Wpf.Wizard.Concluido"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TCC_Wpf.Wizard"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Concluido">
+
+    <Grid>
+        <Label Content="Concluído" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18.667" Margin="0,-6,0,0"/>
+        <TextBlock x:Name="textBlock" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,35,10,0"><Run Text="Esta concluida a otimização do modelo."/><LineBreak/><Run Text="Obrigado por uti"/><Run Text="lizar o software de simulação."/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="button" Content="Abrir modelo e fechar o otimizador" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="238" Margin="0,0,10,10" Click="button_Click"/>
+
+    </Grid>
+</Page>
